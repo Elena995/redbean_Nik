@@ -77,7 +77,7 @@ echo '
 ';
 
 
-include "./views/footer.php"; // + это мы сделали
+include "./views/footer.php"; // +
 ?>
 </body>
 </html>
